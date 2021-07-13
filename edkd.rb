@@ -1,4 +1,4 @@
-VERSION="1.0.0"
+VERSION="0.0.0"
 
 class Edkd < Formula
   desc "Calculate the distance from the latitude(ed) and longitude(kd) of two points"
